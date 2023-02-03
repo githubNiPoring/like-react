@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/like-react/static/css/main.9e4964df.css",
+    "main.js": "/like-react/static/js/main.8f410803.js",
+    "static/media/hand.svg": "/like-react/static/media/hand.7e8a5c65076a713520ea6d68b2100472.svg",
+    "index.html": "/like-react/index.html",
+    "main.9e4964df.css.map": "/like-react/static/css/main.9e4964df.css.map",
+    "main.8f410803.js.map": "/like-react/static/js/main.8f410803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4964df.css",
+    "static/js/main.8f410803.js"
+  ]
+}
